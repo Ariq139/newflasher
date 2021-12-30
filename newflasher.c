@@ -2705,7 +2705,7 @@ int main(int argc, char *argv[])
 	char sinfil[256];
 	char *progname = basenamee(argv[0]);
 	unsigned short VID = 0x0FCE;
-	unsigned short PID = 0xB00B;
+	unsigned short PID = 0x0DDE;
 	int i, j, ret=0;
 	char ch;
 
